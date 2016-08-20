@@ -1,6 +1,6 @@
-# Pretty Exceptions
+# Pretty Exceptions [deprecated]
 
-![Pretty-Exceptions](http://www.phalconphp.com/img/pretty.jpg)
+**DEPRECATED** Use Phalcon\Debug instead: https://docs.phalconphp.com/en/latest/reference/debug.html#debug-component
 
 [Phalcon](http://phalconphp.com) is a web framework delivered as a C extension providing high
 performance and lower resource consumption.
@@ -103,6 +103,3 @@ $p->setTheme('default');
 
 ```
 
-## Live Demo
-
-A live demo is available [here](http://test.phalconphp.com/exception.html) and [here](http://test.phalconphp.com/exception2.html)
